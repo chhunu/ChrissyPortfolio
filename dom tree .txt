@@ -1,0 +1,38 @@
+dom tree: 
+
+head-
+body-
+
+
+JavaScript: makes web page interactive and dynamic
+
+javascript engine: how browser understand everyscript engine: v8, spinder Monday. javascript core and chakra
+
+
+scope: where defined and where accessed  
+
+SOAP REST- used to connect with backend 
+
+mvc vs webapi
+
+mv- euta server request and response from same
+
+react: front end server and back end server two separate - 
+
+javascript library
+
+environment-  
+
+to connect two server it comes between  API
+
+
+
+
+
+
+
+
+
+
+ 
+
